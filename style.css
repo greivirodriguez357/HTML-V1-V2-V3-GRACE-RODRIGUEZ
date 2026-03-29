@@ -1,0 +1,60 @@
+        body {
+            font-family: "Times New Roman", Times, serif;
+            margin: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+
+        header {
+            background-color: #224e6b;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 20px;
+        }
+
+
+        .principal {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+
+        .cards {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            width: 200px;
+            text-align: center;
+            border-radius: 8px;
+            text-decoration: none;
+            color: black;
+            border: 1px solid #ddd;
+        }
+
+
+        footer {
+            text-align: center;
+            background-color: #224e6b;
+            color: white;
+            padding: 10px;
+            margin-top: 30px;
+        }
