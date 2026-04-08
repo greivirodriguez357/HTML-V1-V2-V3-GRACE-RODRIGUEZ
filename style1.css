@@ -54,16 +54,3 @@ input, select {
     cursor: pointer;
 }
 
-/* VALIDACIONES */
-.error {
-    color: red;
-    font-size: 12px;
-}
-
-input.error-input {
-    border: 2px solid red;
-}
-
-input.valid {
-    border: 2px solid green;
-}
